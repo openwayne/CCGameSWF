@@ -1,0 +1,1 @@
+使用方法看看注释应该就懂了，加入CCGameSWF.h头文件，CCSWFNode可以添加到任何cocos2d的node上面。
